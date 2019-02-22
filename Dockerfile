@@ -9,7 +9,7 @@ COPY ./package.json ./
 RUN npm install
 
 #update the image withthe latest index file
-COPY /home/kieran/Documents/webapp/index.js ./
+COPY ./index.js ./
 
 #start container
 CMD ["npm","start"]
