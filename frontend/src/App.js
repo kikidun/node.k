@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            inline edit??? 12345 Scoobydooby what is the GOOBy. Can I just run with it? seems so
+          Hi Carmycarm! Edit the webpage live by typing some stuff and then esc, :, 
           </p>
           <a
             className="App-link"
@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React  
+            Leark R123456789
           </a>
         </header>
       </div>
