@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-          Hi Carmycarm! Edit the webpage live by typing some stuff and then esc, :, 
+          HEY BABY GYM TIME GYM TIME WOOOOOO 
           </p>
           <a
             className="App-link"
@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Leark R123456789
+            LETS GO
           </a>
         </header>
       </div>
